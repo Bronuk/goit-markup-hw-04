@@ -456,6 +456,7 @@ body {
 
 .footer .container {
   display: flex;
+  align-items: baseline;
 }
 
 .logo-footer {
@@ -505,13 +506,7 @@ body {
 }
 
 .will-join {
-  display: block;
-  margin-top: 72px;
-  margin-right: 878px;
-  margin-bottom: 100px;
   margin-left: 70px;
-  width: 206px;
-  height: 80px;
 }
 
 .will-join-text {
